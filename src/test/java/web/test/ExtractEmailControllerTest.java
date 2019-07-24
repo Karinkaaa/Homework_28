@@ -1,5 +1,6 @@
-package main.java.web.controller;
+package test.java.web.test;
 
+import main.java.web.controller.ExtractEmailController;
 import org.junit.Assert;
 import org.junit.Test;
 
