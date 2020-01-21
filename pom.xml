@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <springVersion>5.1.8.RELEASE</springVersion>
+        <springVersion>5.2.3.RELEASE</springVersion>
         <jacksonVersion>2.9.9</jacksonVersion>
     </properties>
 
