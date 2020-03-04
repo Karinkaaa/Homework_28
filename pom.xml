@@ -11,7 +11,7 @@
 
     <properties>
         <springVersion>5.1.8.RELEASE</springVersion>
-        <jacksonVersion>2.9.9</jacksonVersion>
+        <jacksonVersion>2.10.3</jacksonVersion>
     </properties>
 
     <build>
